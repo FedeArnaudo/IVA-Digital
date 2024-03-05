@@ -1,0 +1,20 @@
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\obj\Debug\IVA Digital.csproj.AssemblyReference.cache
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\obj\Debug\MainWindow.baml
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\obj\Debug\MainWindow.g.cs
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\obj\Debug\App.g.cs
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\obj\Debug\IVA Digital_MarkupCompile.cache
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\obj\Debug\IVA Digital_MarkupCompile.lref
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\bin\Debug\IVA Digital.exe.config
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\bin\Debug\IVA Digital.exe
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\bin\Debug\IVA Digital.pdb
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\obj\Debug\IVA Digital.g.resources
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\obj\Debug\IVA_Digital.Properties.Resources.resources
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\obj\Debug\IVA Digital.csproj.GenerateResource.cache
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\obj\Debug\IVA Digital.csproj.CoreCompileInputs.cache
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\obj\Debug\IVA Digital.exe
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\obj\Debug\IVA Digital.pdb
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\obj\Debug\Views\Buscar.g.cs
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\obj\Debug\PaginaInicio.g.cs
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\obj\Debug\PaginaInicio.baml
+D:\PuntoNET\Libros IVA v2\IVA Digital\IVA Digital\IVA Digital\obj\Debug\Views\Buscar.baml
