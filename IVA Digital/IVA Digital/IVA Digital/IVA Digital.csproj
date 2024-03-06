@@ -57,6 +57,9 @@
     </ApplicationDefinition>
     <Compile Include="BuscadorArchivo.cs" />
     <Compile Include="InverseBooleanConverter.cs" />
+    <Compile Include="PaginaFiltros.xaml.cs">
+      <DependentUpon>PaginaFiltros.xaml</DependentUpon>
+    </Compile>
     <Compile Include="PaginaInicio.xaml.cs">
       <DependentUpon>PaginaInicio.xaml</DependentUpon>
     </Compile>
@@ -77,6 +80,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="PaginaFiltros.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="PaginaInicio.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

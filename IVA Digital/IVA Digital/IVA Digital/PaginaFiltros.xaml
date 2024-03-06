@@ -1,0 +1,45 @@
+﻿<Page x:Class="IVA_Digital.PaginaFiltros"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:IVA_Digital"
+      mc:Ignorable="d" 
+      d:DesignHeight="571" d:DesignWidth="890" Background="Transparent"
+      Title="PaginaFiltros">
+
+    <Border Background="#D6E2E8">
+        <Grid>
+            <!--#region COLS and ROWS-->
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="20"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="20"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition Height="20"></RowDefinition>
+            </Grid.RowDefinitions>
+            <!--#endregion-->
+            <!--#region TextBox-->
+            <!--#region Titulo-->
+            <TextBlock Grid.Row="1" Grid.ColumnSpan="6" Text="FILTROS DE BUSQUEDA"
+                       Foreground="Black" FontSize="30" VerticalAlignment="Top"
+                       HorizontalAlignment="Center"></TextBlock>
+            <!--#endregion-->
+            <TextBlock Grid.Row="2" Grid.Column="1" Text="Filtros" FontSize="15"
+                       VerticalAlignment="Top" HorizontalAlignment="Left"
+                       Margin="30, 0, 0, 0"></TextBlock>
+            <!--#endregion-->
+        </Grid>
+    </Border>
+    
+</Page>
